@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">
+👋 Hi there, welcome to my GitHub 🚀
+</h1>
 
-<!--
-**tuliopxavier/tuliopxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A little about me:
 
-Here are some ideas to get you started:
+- 🇧🇷 Salvador, Bahia, Brazil.
+- 🔭 I’m currently studing Full Stack Development at Certified Tech Developer - Digital House Brazil.
+- 🌱 I’m currently learning everything related to javascript - back and frontend.
+- 📚 Self-taught
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+⚡ Fun fact: I love to be on the wild and in front of a computer. How to deal with it? 😵
+
+<hr>
+
+### ⚡ Skills:
+
+HTML5 / CSS3 / JavaScript / ECMAScript6 / MySQL / Scrum / Git / GitHub / Linux / Terminal
+
+
+### 💡 Languages
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuliopxavier&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+
+<hr>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuliopxavier/)](https://www.linkedin.com/in/tuliopxavier/)
