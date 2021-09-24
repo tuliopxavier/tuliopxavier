@@ -1,8 +1,8 @@
 ## 👋 Hi there, welcome to my GitHub 🚀
 
 - ✏️ I’m a art director and graphic designer with experience in web development with Wordpress.
-- 📚 I’m studing Full Stack Development at Certified Tech Developer - Digital House Brazil.
-- 🌱 I’m currently learning React and NodeJS.
+- 📚 I’m studing Full Stack Development at Certified Tech Developer - Digital House Brazil, where now I'm learning OOP with Java, testing and infra.
+- 🌱 Currently, I’m focused on learning React and Node.
 
 I believe in a tech community free of any kind of prejudice and that builds a socially fair, sustainable, accessible, plural and welcoming ecosystem.
 
