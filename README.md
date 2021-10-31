@@ -1,8 +1,9 @@
 ## 👋 Hi there, welcome to my GitHub 🚀
 
+- ⚛ I'm a front end developer, building projects with React/Sass/Styled Components ecosystem.
+- 📚 I’m ending my studies in Full Stack Development at Certified Tech Developer - Digital House Brazil.
 - ✏️ I’m a art director and graphic designer with experience in web development with Wordpress.
-- 📚 I’m studing Full Stack Development at Certified Tech Developer - Digital House Brazil, where now I'm learning OOP with Java, testing and infra.
-- 🌱 Currently, I’m focused on learning React and Node.
+- 🌱 Currently, I’m focused on React and Java/Spring.
 
 I believe in a tech community free of any kind of prejudice and that builds a socially fair, sustainable, accessible, plural and welcoming ecosystem.
 
