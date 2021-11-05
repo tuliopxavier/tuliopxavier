@@ -2,7 +2,8 @@
 
 - ⚛ I'm a front end developer, building projects with React/Sass/Styled Components ecosystem.
 - 📚 I’m ending my studies in Full Stack Development at Certified Tech Developer - Digital House Brazil.
-- ✏️ I’m a art director and graphic designer with experience in web development with Wordpress.
+- 📚 Computer Science student @UFBA University.
+- ✏️ Art director and graphic designer with experience in web development with Wordpress.
 - 🌱 Currently, I’m focused on React and Java/Spring.
 
 I believe in a tech community free of any kind of prejudice and that builds a socially fair, sustainable, accessible, plural and welcoming ecosystem.
