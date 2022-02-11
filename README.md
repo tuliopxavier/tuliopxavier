@@ -1,6 +1,6 @@
 ## 👋 Hi there, welcome to my GitHub 🚀
 
-- ⚛ I'm a front end developer, building projects with React/Sass/Styled Components ecosystem.
+- ⚛ I'm a front end developer, building projects with React/Next/Sass/Styled Components ecosystem.
 - 📚 I’m ending my studies in Full Stack Development at Certified Tech Developer - Digital House Brazil.
 - 📚 Computer Science student @UFBA University.
 - ✏️ Art director and graphic designer with experience in web development with Wordpress.
