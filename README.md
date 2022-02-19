@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi there, welcome to my repositories
+## Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> welcome to my repositories
 
 - ⚛ I'm a front end developer, building projects with React/Next/Sass/Styled Components ecosystem.
 - 📚 I’m ending my studies in Full Stack Development at Certified Tech Developer - Digital House Brazil.
