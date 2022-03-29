@@ -4,7 +4,7 @@
 - 📚 I’m ending my studies in **Full Stack Web Development** at Certified Tech Developer - Digital House Brazil.
 - 📚 **Computer Science** student @UFBA University.
 - ✏️ Art director and graphic designer with experience in web development with Wordpress.
-- 🌱 Currently, I’m focused on **React + Typescript**.
+- 🌱 Currently, I’m focused on **React + Typescript + GraphQL**.
 
 I believe in a tech community free of any kind of prejudice and that builds a socially fair, sustainable, accessible, plural and welcoming ecosystem.
 
