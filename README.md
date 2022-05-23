@@ -6,7 +6,7 @@
 - ✏️ Art director and graphic designer with experience in web development with Wordpress.
 - 🌱 Currently, I’m focused on **React ecosystem + Typescript + GraphQL**.
 
-I believe in a tech community free of any kind of prejudice and that builds a socially fair, sustainable, accessible, plural and welcoming ecosystem.
+I believe in a tech community free of any kind of prejudice and that builds a socially fair, sustainable, accessible, plural and welcoming ecosystem. Be kind! =)
 
 <hr>
 
